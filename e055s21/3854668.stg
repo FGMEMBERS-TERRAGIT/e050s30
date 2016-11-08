@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Maritime/Civilian/FerryBoat1.ac 55.5429083 -20.8659118 -1.8 264
+OBJECT_SHARED Models/Maritime/Civilian/SimpleFreighter.ac 55.5115048 -20.8418851 -2.74 0
+OBJECT_SHARED Models/Maritime/Civilian/lifeboat.xml 55.5040678 -20.8678052 -0.59 312
+OBJECT_SHARED Models/Maritime/Civilian/Catamaran.xml 55.5033508 -20.8636027 -1.02 0
+OBJECT_SHARED Models/Maritime/Civilian/Catamaran.xml 55.5678716 -20.8598539 -3.36 0
+OBJECT_SHARED Models/Maritime/Civilian/SuperTanker.xml 55.5228203 -20.7986999 -4.59 120
+OBJECT_SHARED Models/Maritime/Civilian/container_carier.ac 55.523765 -20.8576461 -1.77 96
