@@ -66,8 +66,8 @@ OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 55.5064809 -20.8916
 OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 55.5064862 -20.8918218 27.02 279.9
 OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 55.5077815 -20.8895494 21.85 336
 OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 55.5079134 -20.8896063 21.92 335.3
-OBJECT_SHARED Models/Aircraft/rafale-marine.ac 55.5079294 -20.889569 21.84 334.9
-OBJECT_SHARED Models/Aircraft/rafale.ac 55.5075659 -20.8912069 25.43 280
+OBJECT_SHARED Models/Aircraft/rafaleM_lowpoly.ac 55.5079294 -20.889569 21.84 334.9
+OBJECT_SHARED Models/Aircraft/rafaleB_lowpoly.ac 55.5075659 -20.8912069 25.43 280
 OBJECT_SHARED Models/Aircraft/superfrelon.xml 55.5068163 -20.8885068 19.94 0
 OBJECT_SHARED Models/Aircraft/ATR42.xml 55.5104287 -20.8900142 21.74 244
 OBJECT_SHARED Models/Airport/Jetway/AutoGate.xml 55.5123068 -20.8908486 22.51 241
@@ -291,6 +291,7 @@ OBJECT_SHARED Models/StreetFurniture/cone.ac 55.5100045 -20.8903243 22.59 0
 OBJECT_SHARED Models/Communications/VOR-DME_3.ac 55.5098053 -20.8848333 10.76 0
 OBJECT_SHARED Models/Airport/EDFEHangar65x40.ac 55.5156104 -20.8930651 25.12 243.1
 OBJECT_SHARED Models/Aircraft/DR400-red.xml 55.5279984 -20.8928239 14.78 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 55.6020253 -20.9014413 23.16 0
 OBJECT_SHARED Models/Aircraft/EC-135-Gendarmerie.xml 55.5064946 -20.8886157 20.25 112
 OBJECT_SHARED Models/Trees/5_populus.xml 55.5076087 -20.8897996 22.42 336
 OBJECT_SHARED Models/Airport/KOFF_E4BTank.xml 55.507719 -20.8916717 26.36 0
