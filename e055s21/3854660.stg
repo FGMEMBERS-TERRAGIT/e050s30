@@ -656,3 +656,10 @@ OBJECT_SHARED Models/Residential/Laundry_10x9.ac 55.5547533 -20.8969202 35.13 0
 OBJECT_SHARED Models/Residential/Laundry_10x9.ac 55.5550102 -20.8997067 36.73 0
 OBJECT_SHARED Models/Residential/Laundry_10x9.ac 55.5556052 -20.8994474 46.54 0
 OBJECT_SHARED Models/Misc/Croix.ac 55.5070833 -20.8907668 24.6 240
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 55.51281 -20.89179 0.00 333.72
+OBJECT_SHARED Models/lib/SmHangar.ac 55.52817 -20.89301 24.25 62.61
+OBJECT_SHARED Models/lib/SmHangar.ac 55.52823 -20.89316 15.02 332.93
+# END dsf2stg
